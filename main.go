@@ -8,7 +8,7 @@ func main() {
 	// if the passenger is under 3, they get in for free
 
 	// create a slice of ints called ages, and assign 5 ages to it
-	ages := []int{2, 5, 42, 24, 18}
+	ages := []int{2, 5, 42, 24, 18, 10}
 
 	// create a variable called total and assign it the value of 0
 	total := 0
